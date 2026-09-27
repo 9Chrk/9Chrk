@@ -29,8 +29,8 @@ Des jeux, des applications et des algorithmes — j’apprends en construisant.
 ### 📊 Sur GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=9Chrk&amp;locale=fr&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=58a6ff&amp;text_color=adbac7&amp;disable_animations=true&amp;show_icons=true&amp;hide_rank=true&amp;icon_color=58a6ff&amp;custom_title=Activité%20GitHub&amp;card_width=400">
-  <img src="https://github-stats-extended.vercel.app/api?username=9Chrk&amp;locale=fr&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0969da&amp;text_color=57606a&amp;disable_animations=true&amp;show_icons=true&amp;hide_rank=true&amp;icon_color=0969da&amp;custom_title=Activité%20GitHub&amp;card_width=400" alt="Statistiques GitHub de Jawad Cherkaoui" width="400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=9Chrk&amp;locale=fr&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=58a6ff&amp;text_color=adbac7&amp;disable_animations=true&amp;show_icons=true&amp;text_bold=false&amp;hide_rank=true&amp;icon_color=58a6ff&amp;custom_title=Activité%20GitHub&amp;card_width=400">
+  <img src="https://github-stats-extended.vercel.app/api?username=9Chrk&amp;locale=fr&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0969da&amp;text_color=57606a&amp;disable_animations=true&amp;show_icons=true&amp;text_bold=false&amp;hide_rank=true&amp;icon_color=0969da&amp;custom_title=Activité%20GitHub&amp;card_width=400" alt="Statistiques GitHub de Jawad Cherkaoui" width="400">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=9Chrk&amp;locale=fr&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=58a6ff&amp;text_color=adbac7&amp;disable_animations=true&amp;layout=compact&amp;langs_count=4&amp;hide=PostScript,TeX&amp;exclude_repo=9Chrk&amp;custom_title=Langages%20les%20plus%20utilisés&amp;card_width=300">
